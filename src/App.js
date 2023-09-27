@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-import { Brand, CTA, Navbar  } from './components'
+import { Brand, CTA, Navbar  } from './components';
 import { Footer, Blog, Possibility, Features, Header, WhatGPT3 } from './containers';
 
-import './App.css'
+import './App.css';
 
 const App = () => {
   return (
